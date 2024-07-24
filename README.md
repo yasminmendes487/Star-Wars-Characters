@@ -1,7 +1,7 @@
 <h1 align="center">Star Wars Characters</h1>
 
 <p align="center">
-Projeto pratico do curso profissao programador.<br/>
+Projeto prático II do curso profissão programador.<br/>
 </p>
 
 <p align="center">
