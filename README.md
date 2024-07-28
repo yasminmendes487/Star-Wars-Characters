@@ -1,13 +1,6 @@
 <h1 align="center">Star Wars Characters</h1>
 
 <p align="center">
-<<<<<<< HEAD
-=======
-Projeto prático II do curso profissão programador.<br/>
-</p>
-
-<p align="center">
->>>>>>> 7a42a270fd12ae4a71b9f125acd26b2a1db06c26
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
